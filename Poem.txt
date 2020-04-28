@@ -7,3 +7,5 @@ this is commit to master branch in remote
 .this is second commit to master branch in remote
 
 this is commit to master branch in remote
+
+Now its from remote master
